@@ -1,85 +1,77 @@
-# Hi, I'm Manasa Vannam! 👋
+# 👋 Hey there! I'm Manasa Vannam
 
-### MSc Computer Science Graduate | Software Development | Data & Analytics
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=MSc+Computer+Science+Graduate;Aspiring+Data+Engineer;Python+%7C+SQL+%7C+dbt+%7C+Airflow;Turning+Raw+Data+into+Insights!" />
 
-Welcome to my GitHub profile!
-
-I'm an MSc Computer Science graduate with a background in Systems Engineering and hands-on experience in programming, automation, software development and data-related projects.
-
-I enjoy solving technical problems, exploring new technologies and building practical solutions through code.
-
-📍 London, United Kingdom
+🎓 MSc Computer Science Graduate (Distinction)  
+📍 London, United Kingdom  
+💻 Former Systems Engineer | Data Engineering Enthusiast
 
 ---
 
-## 🛠️ Technical Skills
+## 🌟 About Me
+
+I'm a Computer Science graduate with professional experience in Systems Engineering and hands-on experience building data pipelines and automation solutions.
+
+I enjoy solving problems, working with data, building reliable pipelines and continuously learning new technologies.
+
+---
+
+## 🛠️ Tech Stack
 
 **Programming Languages**
-- Python, SQL, R
 
-**Web Technologies**
-- HTML, CSS, React,JavaScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Databases & Data Technologies**
-- PostgreSQL, MySQL, dbt, Apache Airflow
+**Data Engineering**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Tools & Technologies**
-- Git, GitHub, Docker, Grafana, Checkmk, GitHub Actions
 
-**Other Skills**
-- Excel, Jira, VS Code, System Monitoring, Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-### 1. Severity-Based Alerting in ELT Pipelines
-**Technologies:** Python, SQL, PostgreSQL, dbt, Docker, Apache Airflow
+### 📊 Severity-Based Alerting in ELT Pipelines
 
-- Built an ELT pipeline processing 10,000 synthetic e-commerce transactions.
-- Developed six dbt models for data transformation.
+- Built a containerized ELT pipeline using Python and PostgreSQL.
+- Processed 10,000 synthetic e-commerce transactions.
+- Developed 6 dbt models.
 - Implemented 45 data quality tests.
-- Conducted 20 controlled experiments.
 - Reduced email alerts by 28.9% while detecting all 32 critical failures.
 
-[View Project](https://github.com/vannammanasa/elt-alerting-pipeline)
-
-### 2. Software Development Projects
-Projects involving programming, web technologies and application development.
-
-[Explore Repositories](https://github.com/vannammanasa?tab=repositories)
-
-### 3. Data & Analytics Projects
-Projects involving data analysis, SQL, Python and data visualization.
-
-[Explore Repositories](https://github.com/vannammanasa?tab=repositories)
+🔗 [View Project Repository](ADD_YOUR_PROJECT_LINK_HERE)
 
 ---
 
-## 🎓 Education
+## 📈 GitHub Statistics
 
-**MSc Computer Science**  
-Glasgow Caledonian University | 2026 | Distinction
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannammanasa2&show_icons=true&theme=tokyonight&hide_border=true)
 
-**BTech Electrical and Electronics Engineering**  
-Sree Vidyanikethan Engineering College | 2019
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vannammanasa2&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-## 💼 Professional Experience
-
-- Systems Engineer - Prodatix Info Solutions
-- Systems Engineer - Tata Consultancy Services
-- Practice Administrator - DTL Advisory Limited
-
-Experience in system monitoring, troubleshooting, automation, dashboard development and operational support.
+![GitHub Streak](https://streak-stats.demolab.com?user=vannammanasa2&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
-- LinkedIn: https://www.linkedin.com/in/manasavannam/
-- Email: vannammanasa2478@gmail.com
-- GitHub: https://github.com/vannammanasa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](ADD_YOUR_LINKEDIN_URL)
 
-Thanks for visiting my profile! 😊
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vannammanasa2)
+
+📧 Email: vannammanasa2478@gmail.com
+
+---
+
+⭐ *"Turning data into insights, one project at a time!"*
