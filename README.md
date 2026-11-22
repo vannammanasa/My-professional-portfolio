@@ -50,25 +50,16 @@ I enjoy solving problems, working with data, building reliable pipelines and con
 - Implemented 45 data quality tests.
 - Reduced email alerts by 28.9% while detecting all 32 critical failures.
 
-🔗 [View Project Repository](ADD_YOUR_PROJECT_LINK_HERE)
+🔗 [View Project Repository](https://github.com/vannammanasa/elt-alerting-pipeline)
 
----
-
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vannammanasa2&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vannammanasa2&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vannammanasa2&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](ADD_YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manasavannam/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vannammanasa2)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/vannammanasa)
 
 📧 Email: vannammanasa2478@gmail.com
 
